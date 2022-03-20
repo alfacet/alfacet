@@ -1,5 +1,3 @@
-## Hi! I'm Filipe Davi :)
-
 <div align="center">
   <a href="https://github.com/alfacet">
   <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alfacet&layout=compact&langs_count=7&theme=dark"/>
